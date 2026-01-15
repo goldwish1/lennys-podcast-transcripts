@@ -1,15 +1,18 @@
 ---
 guest: Jason Droege
-title: Scale AI CEO on Meta's $14B deal, scaling Uber Eats to $80B, & what frontier
-  labs are building next
-youtube_url: https://www.youtube.com/watch?v=W99jdYZOlN0
-video_id: W99jdYZOlN0
-description: Jason Droege is the CEO of Scale AI, a company that provides foundational
-  training data to every major AI lab. He previously co-founded Scour with Travis
-  Kalanick.
-duration_seconds: 5042.0
-duration: '1:24:02'
-view_count: 17470
+title: We replaced our sales team with 20 AI agents—here’s what happened next | Jason
+  Lemkin (SaaStr)
+youtube_url: https://www.youtube.com/watch?v=I-R1bc1rlFs
+video_id: I-R1bc1rlFs
+publish_date: '2026-01-01'
+description: 'Jason Lemkin is the founder of SaaStr, the world’s largest community
+  for software founders, and a veteran SaaS investor who has deployed over $200 million
+  into B2B startups. After his last...
+
+  '
+duration_seconds: 6131.0
+duration: '1:42:11'
+view_count: 47503
 channel: Lenny's Podcast
 keywords:
 - growth
@@ -29,7 +32,7 @@ keywords:
 - competition
 ---
 
-# Scale AI CEO on Meta's $14B deal, scaling Uber Eats to $80B, & what frontier labs are building next
+# We replaced our sales team with 20 AI agents—here’s what happened next | Jason Lemkin (SaaStr)
 
 ## Transcript
 
