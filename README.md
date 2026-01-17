@@ -121,7 +121,7 @@ Here are some projects that have been built using this transcript archive:
 
 **[Lenny Skills Database](https://refoundai.com/lenny-skills/)** by Refound AI - A searchable database of 86 actionable skills extracted from 297 podcast episodes. Learn how the best product teams actually work.
 
-**[Lenny MCP](https://lenny-mcp.onrender.com/mcp)** - A Model Context Protocol server that provides access to Lenny's podcast content for AI applications.
+**[Lenny MCP](https://github.com/akshayvkt/lenny-mcp)** by [Akshay Chintalapati](https://x.com/akshayvkt) - A Model Context Protocol server that provides access to Lenny's podcast content for AI applications.
 
 **[Recapio - Lenny's Podcast Summaries](https://recapio.com/channel/lennyspodcast)** - AI-generated summaries, transcripts, key insights, and chat interface for Lenny's Podcast episodes.
 
