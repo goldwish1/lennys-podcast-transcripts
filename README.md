@@ -155,6 +155,8 @@ Here are some projects that have been built using this transcript archive:
 
 **[Time Capsule](https://sameerbajaj.com/tools/timecapsule)** by [@sameerbajaj](https://x.com/sameerbajaj) - Describe your situation and get a personalized letter with advice from product leaders who were in your exact moment.
 
+**[Lenny's Experts](https://www.expertand.com/lenny)** by [@joeyh](https://twitter.com/joeyh) - Make Lenny's guests your personal expert network. Browse by topic, save what resonates, come back to it later.
+
 Have you built something with these transcripts? Open a PR to add your project to this list!
 
 ## Disclaimer
