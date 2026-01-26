@@ -1493,6 +1493,15 @@
 
 ---
 
+### 2023年12月17日 - Jason Fried
+
+**Jason Fried challenges your thinking on fundraising, goals, growth, and more**
+
+- [YouTube 视频](https://www.youtube.com/watch?v=dAnF0tk0di8)
+- [文字稿](episodes/jason-fried/transcript.md)
+
+---
+
 ### 2023年12月15日 - Matthew Dicks
 
 **How to tell better stories | Matthew Dicks (Storyworthy)**
@@ -1661,15 +1670,6 @@
 
 - [YouTube 视频](https://www.youtube.com/watch?v=LZLdoAq3R7Y)
 - [文字稿](episodes/jason-feifer/transcript.md)
-
----
-
-### 2023年10月12日 - Jason Fried
-
-**How to get press for your product | Jason Feifer (editor in chief of Entrepreneur**
-
-- [YouTube 视频](https://www.youtube.com/watch?v=LZLdoAq3R7Y)
-- [文字稿](episodes/jason-fried/transcript.md)
 
 ---
 
